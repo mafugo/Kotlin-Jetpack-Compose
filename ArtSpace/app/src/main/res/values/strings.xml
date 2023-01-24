@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="photo_descriptor_1">Flowers in a Metal Vase</string>
+    <string name="artist_1">Abraham Mignon </string>
+    <string name="date_1">(1670)</string>
+    <string name="photo_descriptor_2">Michael Angelo\'s painting on top of the Palace of Versailles</string>
+    <string name="artist_2">Michael Angelo</string>
+    <string name="date_2">1529</string>
+</resources>
